@@ -1,0 +1,6 @@
+Successfully inserted 3 records into the system.
+Ramdev: Yet to Deliver
+Balaji Medicals: Out for Delivery
+Apollo
+Number of Pharmacies for which delivery completed: 1
+Apollo

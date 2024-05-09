@@ -1,0 +1,6 @@
+Group 1: There are 4 participants in the group and they are Carbon, Argon, Boron, Dysprosium
+Group 2: There are 28 participants in the group and they are Rhodium, Tungsten, Germanium, Vanadium, Cerium, Xenon, Wolfram, Iridium, Pottasium, Osmium, Barium, Querium, Yttrium, Lithium, Uranium, Zirconium, Kalium, Thorium, Hydrogen, Europium, Magnesium, Oliv, Sodium, Nitrogen, Aluminium, Jifferium, Francium, Dubnium
+Group 3: There are 3 participants in the group and they are Greta, Florine, Erbium
+Group 4: There are 3 participants in the group and they are Hofnium, Jill, Iron
+Group 5: There are 3 participants in the group and they are Maggie, Krypton, lead
+Group 6: There are 3 participants in the group and they are Rodium, Sodium, Quntium

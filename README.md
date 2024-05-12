@@ -6,7 +6,7 @@ Semester 1
     - Computer Organization and Software Systems
     - Data Structures and Algorithm Design
 
-Semester 2    
+Semester 2
     - Data Visualization and Interpretation
     - Machine Learning
 

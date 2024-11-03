@@ -15,3 +15,6 @@ Semester 3
     - Information Retrieval
     - Deep Learning
     - Natural Language Processing
+
+Semester 4
+    - Dissertation
